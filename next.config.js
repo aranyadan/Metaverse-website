@@ -6,6 +6,7 @@ module.exports = {
 			"links.papareact.com",
 			"avatars.dicebear.com",
 			"upload.wikimedia.org",
+			"images.unsplash.com",
 		],
 	},
 }
